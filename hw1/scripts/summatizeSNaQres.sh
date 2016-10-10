@@ -26,4 +26,4 @@ do
 done
 
 #Combine the 3 columns into one csv file.
-paste -d","  111.csv 222.csv 333.csv >combine.csv
+paste -d","  111.csv 222.csv 333.csv > results/combine.csv
